@@ -1,4 +1,5 @@
-
+packege calculadora
+import rama.carloslid
 public class Suma {
 
 	 double suma;
@@ -7,7 +8,10 @@ public class Suma {
 	             
 	        super(n1, n2, '+');
 	        this.suma = n1 + n2;
-	        this.setRes(this.suma);
-	
+	        this.res = this.suma;
+	    }
+	  public void mostrarResultado() {
+		  System.out.println(this.n1+" "+this.operacion+""+this.n2+" = "+this.res);
+	  }
 	
 }
