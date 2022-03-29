@@ -1,4 +1,4 @@
-
+package calculadora;
 public class Multiplicacion {
 	 double multi;
      
@@ -6,7 +6,9 @@ public class Multiplicacion {
 	             
 	        super(n1, n2, '*');
 	        this.multi = n1 * n2;
-	        this.setRes(this.multi);
+	        this.res = this.multi;
 	    }
-	
+	    public void mostrarResultado() {
+	      	 System.out.println(this.n1+" "+this.operacion+" "+this.n2+" = "+this.res);
+	      }
 }
