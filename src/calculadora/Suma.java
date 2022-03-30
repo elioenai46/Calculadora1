@@ -1,3 +1,8 @@
+/*Autor:America Yaridsaida Villalobos Rodriguez
+Fecha:25/03/2022
+descripcion:la clase realiza una suma 
+*/
+
 package calculadora;
 
 public class Suma extends Operacion{
