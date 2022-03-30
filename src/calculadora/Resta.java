@@ -1,5 +1,6 @@
 /********************************************************
 Autor: Salvador Elioenai Antonio Pérez
+Fecha de creación: 25 de marzo del 2022
 Fecha Actualización: 30 de marzo del 2022
 Descripción: Clase para relaizar la resta de dos numeros
 ********************************************************/
