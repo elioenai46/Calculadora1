@@ -1,3 +1,12 @@
+/*
+
+Autor: Maximiliano Pacheco Pérez
+Fecha de Creacion: 25/03/2022
+Fecha de Actualización: 28/03/2022
+Descripción: En esta clase se realiza 
+             la operación de División
+
+*/
 package calculadora;
 
 public class Divicion extends Operacion{
