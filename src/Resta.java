@@ -1,4 +1,8 @@
-
+/********************************************************
+Autor: Salvador Elioenai Antonio Pérez
+Fecha Actualización: 30 de marzo del 2022
+Descripción: Clase para relaizar la resta de dos numeros
+********************************************************/
 public class Resta extends Operacion {
 	double resta;
 	
