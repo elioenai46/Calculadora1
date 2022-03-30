@@ -1,3 +1,10 @@
+/*Autor: Carlos Aurelio Alcantara Perez
+Fecha de creacion:25-03-2022
+Fecha de actualizacion: 28-03-2022
+Descripcion:Multiplicacion de dos numeros 
+**********************************************/
+
+
 package calculadora;
 import java.util.Scanner;
 public class Principal {
