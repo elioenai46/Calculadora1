@@ -2,7 +2,7 @@
 /*Autor: Carlos Aurelio Alcantara Perez
 Fecha de creacion:25-03-2022
 Fecha de actualizacion: 28-03-2022
-Descripcion:Multiplicacion de dos numeros 
+Descripcion:clase para capturar los numeros e imprimir las operaciones 
 **********************************************/
 package calculadora;
 
